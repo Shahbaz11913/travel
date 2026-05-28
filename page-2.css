@@ -1,0 +1,8 @@
+.image-back{
+    background-image: url(./photos/2nd\ page\ bag.png);
+     background-position: center;
+  background-repeat: none;
+  background-size: cover;
+  padding-bottom: 90px;
+  margin-bottom: 60px;
+}
